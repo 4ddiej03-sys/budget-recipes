@@ -1,7 +1,8 @@
 {
   "name": "Budget Recipes",
   "short_name": "Recipes",
-  "start_url": ".",
+  "start_url": "/budget-recipes/",
+  "scope": "/budget-recipes/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
