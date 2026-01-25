@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Gado Gado - Indoneesian Salad with Peanut",
+    "cost": "very cheap",
+    "ingredients": ["Carrot", "Egg", "Cabbage", "Tofu", "Garlic",
+    "Peanut butter", "Sweet Soy sauce"],
+    "steps": ["Crushed Garlic then mixed with peanut butter",
+    "Lime juice and Sweeet soy sauce",
+    "Cook egg", "Add all chopped veggies", "Season"]
+  }
+  ,
+{
+  "id": 2,
+  "title": "$2 Peanut Butter Noodles",
+  "cost": "cheap",
+  "ingredients": [
+    "Pasta",
+    "Peanut butter",
+    "Soy sauce",
+    "Garlic - crushed"
+  ],
+  "steps": [
+    "Boil pasta",
+    "Mix sauce",
+    "Combine"
+  ]
+}
+
+]
